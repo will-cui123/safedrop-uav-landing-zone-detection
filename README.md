@@ -2,6 +2,8 @@
 
 This repository contains the code used for our ENGG2112 project. The project aims to identify landing zones for disaster-relief UAVs using image-based machine learning and semantic segmentation.
 
+Note: The Jupyter notebooks (.ipynb) should be downloaded and viewed in an IDE (e.g. VSCode), as GitHub may not properly render the Jupyter notebook. 
+
 # Project Overview
 
 The goal of this project is to support UAV landing decisions by classifying terrain into three safety classes:
