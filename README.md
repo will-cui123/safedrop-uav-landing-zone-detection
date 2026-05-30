@@ -16,10 +16,10 @@ The final system uses a CNN segmentation model based on a U-Net-style architectu
 
 ```text
 .
-├── preprocessing/                      # Image and mask preprocessing code
 ├── safedrop-cnn-model.ipynb/           # U-Net CNN final model code
 ├── random_forest_baseline.ipynb/       # Random Forest baseline code
 ├── knn_baseline.ipynb/                 # KNN baseline code
 ├── logistic_regression_baseline.ipynb  # Logistic Regression baseline code
 ├── svm_baseline.ipynb                  # SVM baseline code
+├── ml_model_plots.ipynb                # Code for performance plots, including model comparisons, confusion matrix, etc.
 └── README.md
